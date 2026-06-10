@@ -31,8 +31,8 @@
 
 ### ⚡️ Arquitetura e Stack Utilizado
 
-* **Linguagem de Programação:** Ex.: Python
-* **Banco de Dados:** Ex.: MySQL
+* **Linguagem de Programação:** Python, SQL
+* **Banco de Dados:** MySQL
 
 ---
 
