@@ -19,15 +19,15 @@
   
 ### 👔 Docentes e Orientação
 
-* **Orientador(a):** [Guilherme Nogueira]
-* **Coordenador(a):** [Guilherme Nogueira](#)
+* **Orientador(a):** Guilherme Nogueira
+* **Coordenador(a):** Guilherme Nogueira
 
 ---
 
 ### 📄 Identificação
 
 * Disciplina: Programação Orientada à Objetos, Fundamentos de Bancos de dados
-* Professor(a): [Guilherme Nogueira](#)
+* Professor(a): Guilherme Nogueira
 
 ### ⚡️ Arquitetura e Stack Utilizado
 
